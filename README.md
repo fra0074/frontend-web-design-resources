@@ -269,7 +269,7 @@ http://www.google.com/analytics/
 <h2>KEEPING UP WITH THE WEB INDUSTRY</h2>
 
 Treehouse show, weekly video about new things in webdesign and development:
- http://teamtreehouse.com/library/the-treehouse-show
+http://teamtreehouse.com/library/the-treehouse-show
 
 Sidebar: the 5 best design links, every day:
 http://sidebar.io/
