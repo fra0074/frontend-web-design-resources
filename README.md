@@ -140,7 +140,8 @@ Google fonts inspiration:
 http://femmebot.github.io/google-type/
 
 Some amazing designers on Dribble:
-https://dribbble.com/victorerixon https://dribbble.com/benske https://dribbble.com/peterfinlan https://dribbble.com/Radium
+https://dribbble.com/victorerixon https://dribbble.com/benske https://dribbble.com/peterfinlan
+https://dribbble.com/Radium
 
 
 <h2>EVEN MORE RESOURCES</h2>
@@ -206,7 +207,7 @@ Up-to-date browser support tables for CSS and HTML:
 http://caniuse.com/
 
 Using Internet Explorer on a Mac
-https://www.modern.ie
+https://sonarwhal.com/scanner/
 
 Social network colors:
 http://designpieces.com/2012/12/social-media-colours-hex-and-rgb/
@@ -268,7 +269,7 @@ http://www.google.com/analytics/
 <h2>KEEPING UP WITH THE WEB INDUSTRY</h2>
 
 Treehouse show, weekly video about new things in webdesign and development:
-http://teamtreehouse.com/library/the-treehouse-show
+ http://teamtreehouse.com/library/the-treehouse-show
 
 Sidebar: the 5 best design links, every day:
 http://sidebar.io/
