@@ -7,6 +7,7 @@ Learn more about flat design:
 http://www.webdesignerdepot.com/2013/12/infographic-flat-design-vs-skeuomorphism/
 
 
+
 <h2>TYPOGRAPHY</h2>
 
 Google fonts: tons of free, easy to use webfonts:
@@ -26,6 +27,7 @@ http://fontpair.co/
 
 learn even more about typography:
 http://www.typogui.de/
+
 
 
 <h2>COLORS</h2>
@@ -53,6 +55,7 @@ http://www.rocket-design.fr/color-template/
 
 Learn even more about colors:
 http://webdesign.tutsplus.com/ar.cles/an-introduc.on-to-color-theory-for-web-designers--webdesign-1437
+
 
 
 <h2>WORKING WITH IMAGES</h2>
@@ -84,6 +87,8 @@ http://mazwai.com/
 Techniques for working with images in CSS:
 http://css-tricks.com/design-considera.ons-text-images/
 
+
+
 <h2>WORKING WITH ICONS</h2>
 
 Beautiful icon font:
@@ -102,6 +107,8 @@ Yet another icon font:
 http://icon-works.com/
 
 
+
+
 <h2>USER EXPERIENCE</h2>
 
 UX crash course in 31 days
@@ -109,6 +116,8 @@ http://thehipperelement.com/post/75476711614/ux-crash-course-31-fundamentals
 
 UI tricks that can lead to higher conversion rates:
 http://www.goodui.org/
+
+
 
 
 <h2>GETTING INSPIRED</h2>
@@ -144,6 +153,8 @@ https://dribbble.com/victorerixon https://dribbble.com/benske https://dribbble.c
 https://dribbble.com/Radium
 
 
+
+
 <h2>EVEN MORE RESOURCES</h2>
 
 Huge list of front-end development resources:
@@ -151,6 +162,8 @@ https://github.com/dypsilon/frontend-dev-bookmarks
 
 Curated resources for everything crea.ve:
 http://oozled.com/
+
+
 
 
 <h2>DIVE INTO HTML</h2>
@@ -165,6 +178,8 @@ HTML special characters
 https://css-tricks.com/snippets/html/glyphs/
 
 
+
+
 <h2>FORMATTING WITH CSS</h2>
 
 Complete CSS reference (this is really good):
@@ -176,6 +191,9 @@ http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-1
 Cool things you can do with Google Chrome Developer Tools:
 http://www.labnol.org/solware/chrome-dev-tools-tutorial/28131/
 
+
+
+
 <h2>THE KILLER WEBSITE PROJECT</h2>
 
 <h4>7REAL-WORLDSTEPSTOAFUNCTIONALWEBSITE</h4>
@@ -184,12 +202,15 @@ http://www.labnol.org/solware/chrome-dev-tools-tutorial/28131/
 2. Plan out everything
 3. Sketch your ideas before you start designing
 4. Design and develop your website with HTML and CSS
-5. It’s not done yet: op.miza.on
+5. It’s not done yet: optimization
 6. Launch the masterpiece
 7. Site maintenance
 
 Periodic table of web design process:
 http://www.newdesigngroup.ca/blog/web-design-process-infographic/
+
+
+
 
 
 <h2>LINKS USED IN OUR PROJECT</h2>
@@ -216,6 +237,9 @@ Animate.css:
 http://daneden.github.io/animate.css/
 
 
+
+
+
 <h2>COOL JQUERY PLUGINS</h2>
 
 Webappers, huge list of plugins:
@@ -238,6 +262,9 @@ http://cosmos.layervault.com/typer-js.html
 
 OnePageScroll:
 http://www.thepetedesign.com/demos/onepage_scroll_demo.html
+
+
+
 
 <h2>OPTIMIZING AND LAUNCHING OUR WEBSITE</h2>
 
@@ -264,6 +291,8 @@ http://webdesign.tutsplus.com/ar.cles/a-web-designers-seo-checklist-including-po
 
 Google analytics
 http://www.google.com/analytics/
+
+
 
 
 <h2>KEEPING UP WITH THE WEB INDUSTRY</h2>
